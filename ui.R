@@ -1,5 +1,5 @@
 library(shiny)
-
+# Jake added this line because he's an asshole
 # Define UI for application that plots random distributions 
 shinyUI(pageWithSidebar(
 
