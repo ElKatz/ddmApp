@@ -2,7 +2,7 @@ ddmApp
 ======
 
 R Shiny app for teaching how drift diffusion model (ddm) predicts speed and accuracy of decision making.
-The app has been uploded to the web on Jan xxx 2014. <webaddress>
+The app has been uploded to the web on Feb 2nd 2014: http://elkatz.shinyapps.io/shinyDDM/
 
 Function:
 The user can set some parameters of the drift-diffusion model (ddm) and assess the consequence on the psychometric and chronometric functions, according to anlytic equations provided by Palmer, Huk & Shadlen 2005, Journal of Vision.
